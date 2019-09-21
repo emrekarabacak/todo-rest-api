@@ -3,7 +3,7 @@ package item
 import (
 	"fmt"
 
-	"../domain"
+	"todo-rest-api/domain"
 )
 
 // InMemoryRepository ...

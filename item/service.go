@@ -2,8 +2,7 @@ package item
 
 import (
 	"time"
-
-	"../domain"
+	"todo-rest-api/domain"
 )
 
 // Service to-do items business logic

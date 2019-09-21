@@ -5,10 +5,9 @@ import (
 	"fmt"
 	"net/http"
 	"strconv"
+	"todo-rest-api/domain"
 
 	"github.com/gorilla/mux"
-
-	"../domain"
 )
 
 // Handler handler for item requests
